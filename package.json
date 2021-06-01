@@ -8,7 +8,7 @@
     "jquery": "^3.5.0",
     "mdbreact": "^4.8.4",
     "popper.js": "^1.14.5",
-    "react": "^16.6.3",
+    "react": "^16.14.0",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
   },
